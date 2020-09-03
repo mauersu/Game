@@ -1,6 +1,6 @@
 #ifndef input_h
 #define input_h
-
+#include <cstdio>
 #include <stdlib.h>
 
 class Input {

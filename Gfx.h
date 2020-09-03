@@ -1,6 +1,8 @@
 #ifndef Gfx_h
 #define Gfx_h
 
+#include <cstdio>
+#include <stdlib.h>
 #include <SDL.h>
 #include <SDL_render.h>
 

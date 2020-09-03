@@ -14,7 +14,7 @@
 //int mousex; int mousey; int mouseon = 0;
 //int red = 0; int green = 0; int blue = 0;
 
-int main ( int argc, char** argv ) {
+int main(int argc, char *argv[]) {
 	SDL_Texture* s1Texture = NULL;
 	SDL_Texture* s1TextureShift = NULL;
 	SDL_Rect s1Rect = { 0, 0, 18, 24 }; //player x y w h
